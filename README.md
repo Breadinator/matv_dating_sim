@@ -14,5 +14,5 @@ cd ./matv_dating_sim
 cargo run
 ```
 
-## expample
+## example
 ![alt text](https://i.imgur.com/nsUTyOo.png "an image of the program")
