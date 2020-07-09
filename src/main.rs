@@ -21,7 +21,7 @@ static HAIRS: [&str; 3] = [
 static GENDERS: [&str; 3] = [
     "Man",
     "Woman",
-    "Enby",
+    "Non-binary",
 ];
 
 static LOCATIONS: [&str; 3] = [
@@ -110,7 +110,7 @@ fn get_pos_resp() -> &'static str {
 
 fn get_neg_resp() -> &'static str {
 	let resp = [
-		"They look slightly disgusting, and decline.",
+		"They look slightly disgusted, and decline.",
 		"Lol, no.",
 		"I have a boyfriend :)"
 	];
